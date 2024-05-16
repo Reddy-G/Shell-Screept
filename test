@@ -1,0 +1,3 @@
+testing the git repo
+
+git add . ; git commit -m "fist commit" ; git push -u orgin main
